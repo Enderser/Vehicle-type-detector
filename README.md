@@ -60,12 +60,12 @@
 - **Accuracy:** 0.5544
 ## Визуализация
 - Графики
-![[CK_AI/Vehicle-type-detector/assets/labels.jpg]]
-![[CK_AI/Vehicle-type-detector/assets/results.png]]
+![labels](https://github.com/Enderser/Vehicle-type-detector/blob/main/assets/labels.jpg)
+![results.png](https://github.com/Enderser/Vehicle-type-detector/blob/main/assets/results.png)
 
 ---
 
 - Примеры работы
-![[CK_AI/Vehicle-type-detector/assets/val_batch0_pred.jpg]]
-![[CK_AI/Vehicle-type-detector/assets/val_batch1_pred.jpg]]
-![[CK_AI/Vehicle-type-detector/assets/val_batch2_pred.jpg]]
+![val_batch0_pred](https://github.com/Enderser/Vehicle-type-detector/blob/main/assets/val_batch0_pred.jpg)
+![val_batch1_pred](https://github.com/Enderser/Vehicle-type-detector/blob/main/assets/val_batch1_pred.jpg)
+![val_batch2_pred](https://github.com/Enderser/Vehicle-type-detector/blob/main/assets/val_batch2_pred.jpg)
